@@ -1,4 +1,4 @@
-https://stackoverflow.com/questions/29166402/verify-if-video-exist-with-youtube-api-v3
+## youtube Video Status Report generator
 
-https://gist.github.com/takien/4077195
-
+####API KET Roation Library to utilise multiple keys to handle daily api usage limits<br>
+It maintains state to start update at point where it stopped 
