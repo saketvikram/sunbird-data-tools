@@ -1,0 +1,23 @@
+{
+  "name": "question-create-validation",
+  "version": "1.0.0",
+  "description": "data validation for state question creation request",
+  "main": "validate-metadata.js",
+  "scripts": {
+    "questiontest": "./utf8-validator-1.2/bin/validate $CSVPATH",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "firstline": "^2.0.2",
+    "fs-extra": "^8.1.0",
+    "image-size": "^0.7.4",
+    "lodash": "^4.17.13",
+    "path": "^0.12.7",
+    "readdirp": "^3.1.1",
+    "request": "^2.88.0",
+    "xlsx": "^0.14.3"
+  }
+}
